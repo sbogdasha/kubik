@@ -1,0 +1,4 @@
+﻿  Tree.cpp
+C:\Users\38097\source\repos\InterNosC\Labaratory5\Labaratory5\Tree.cpp(185,55): warning C4804: '>': unsafe use of type 'bool' in operation
+C:\Users\38097\source\repos\InterNosC\Labaratory5\Labaratory5\Tree.cpp(195,58): warning C4804: '>': unsafe use of type 'bool' in operation
+  Labaratory5.vcxproj -> C:\Users\38097\Source\Repos\InterNosC\Labaratory5\x64\Debug\Labaratory5.exe
