@@ -1,0 +1,2 @@
+C:\Users\Asus\Documents\students\Lab7\Debug\GraphLab.exe
+C:\Users\Asus\Documents\students\Lab7\Debug\GraphLab.pdb

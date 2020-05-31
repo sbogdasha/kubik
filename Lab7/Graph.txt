@@ -1,0 +1,8 @@
+abcde
+a-e
+a-b
+b-e
+b-c
+c-d
+e-c
+e-d
