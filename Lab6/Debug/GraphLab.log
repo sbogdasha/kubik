@@ -1,0 +1,15 @@
+﻿  Edge.cpp
+  Graph.cpp
+C:\Users\user\Desktop\GraphLab\Graph.cpp(65,38): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\user\Desktop\GraphLab\Graph.cpp(144,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Desktop\GraphLab\Graph.cpp(327,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Desktop\GraphLab\Graph.cpp(432,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  GraphLab.cpp
+  Top.cpp
+C:\Users\user\Desktop\GraphLab\Top.cpp(51,11): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  GraphLab.vcxproj -> C:\Users\user\Desktop\GraphLab\Debug\GraphLab.exe
