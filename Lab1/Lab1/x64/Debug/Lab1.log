@@ -1,0 +1,21 @@
+﻿  User.cpp
+C:\Users\Bogdan\Desktop\Lab1\Lab1\User.cpp(146,16): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Bogdan\Desktop\Lab1\Lab1\User.cpp(274,17): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Bogdan\Desktop\Lab1\Lab1\User.cpp(282,40): warning C4099: Student: имя типа, ранее отображенное с помощью "class", теперь отображено с помощью "struct"
+C:\Users\Bogdan\Desktop\Lab1\Lab1\User.h(18): message : см. объявление "Student"
+C:\Users\Bogdan\Desktop\Lab1\Lab1\User.cpp(316,18): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Bogdan\Desktop\Lab1\Lab1\User.cpp(324,36): warning C4099: _Q: имя типа, ранее отображенное с помощью "class", теперь отображено с помощью "struct"
+C:\Users\Bogdan\Desktop\Lab1\Lab1\User.h(57): message : см. объявление "_Q"
+C:\Users\Bogdan\Desktop\Lab1\Lab1\User.cpp(336,31): warning C4101: e: неиспользованная локальная переменная
+C:\Users\Bogdan\Desktop\Lab1\Lab1\User.cpp(408,16): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Bogdan\Desktop\Lab1\Lab1\User.cpp(451,35): warning C4099: Student: имя типа, ранее отображенное с помощью "class", теперь отображено с помощью "struct"
+C:\Users\Bogdan\Desktop\Lab1\Lab1\User.h(18): message : см. объявление "Student"
+C:\Users\Bogdan\Desktop\Lab1\Lab1\User.cpp(476,16): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Bogdan\Desktop\Lab1\Lab1\User.cpp(520,16): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Bogdan\Desktop\Lab1\Lab1\User.cpp(553,16): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Bogdan\Desktop\Lab1\Lab1\User.cpp(597,35): warning C4099: Student: имя типа, ранее отображенное с помощью "class", теперь отображено с помощью "struct"
+C:\Users\Bogdan\Desktop\Lab1\Lab1\User.h(18): message : см. объявление "Student"
+C:\Users\Bogdan\Desktop\Lab1\Lab1\User.cpp(613,28): warning C4099: _Q: имя типа, ранее отображенное с помощью "class", теперь отображено с помощью "struct"
+C:\Users\Bogdan\Desktop\Lab1\Lab1\User.h(57): message : см. объявление "_Q"
+C:\Users\Bogdan\Desktop\Lab1\Lab1\User.cpp(628,16): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+  Lab1.vcxproj -> C:\Users\Bogdan\Desktop\Lab1\x64\Debug\Lab1.exe
